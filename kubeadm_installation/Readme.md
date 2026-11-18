@@ -11,6 +11,7 @@ This guide outlines the steps needed to set up a Kubernetes cluster using `kubea
 
 ---
 
+
 ## AWS Setup
 
 1. Ensure that all instances are in the same **Security Group**.
